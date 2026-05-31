@@ -16,11 +16,11 @@ For further reading material, we recommend considering our introduction to IPAL 
 
 Overview of IPAL's repositories
 
-- [1] Concept, documentation, and additional material around the IPAL ecosystem - [https://github.com/fkie-cad/ipal](https://github.com/fkie-cad/ipal)
-- [2] Contains, among others, the IPAL transcriber, which converts network traffic into IPAL representation - [https://github.com/fkie-cad/ipal_transcriber](https://github.com/fkie-cad/ipal_transcriber)
-- [3] Implementation of various IDS solutions operating on top of IPAL - [https://github.com/fkie-cad/ipal_ids_framework](https://github.com/fkie-cad/ipal_ids_framework)
-- [4] Tools to evaluate and tune IDS solutions - [https://github.com/fkie-cad/ipal_evaluate](https://github.com/fkie-cad/ipal_evaluate)
-- [5] A collection of datasets that can be used to evaluate IDS solutions - [https://github.com/fkie-cad/ipal_datasets](https://github.com/fkie-cad/ipal_datasets)
+- [1] Concept, documentation, and additional material around the IPAL ecosystem - [https://github.com/ipal-ids/ipal](https://github.com/ipal-ids/ipal)
+- [2] Contains, among others, the IPAL transcriber, which converts network traffic into IPAL representation - [https://github.com/ipal-ids/ipal_transcriber](https://github.com/ipal-ids/ipal_transcriber)
+- [3] Implementation of various IDS solutions operating on top of IPAL - [https://github.com/ipal-ids/ipal_ids_framework](https://github.com/ipal-ids/ipal_ids_framework)
+- [4] Tools to evaluate and tune IDS solutions - [https://github.com/ipal-ids/ipal_evaluate](https://github.com/ipal-ids/ipal_evaluate)
+- [5] A collection of datasets that can be used to evaluate IDS solutions - [https://github.com/ipal-ids/ipal_datasets](https://github.com/ipal-ids/ipal_datasets)
 
 ### IPAL message format
 

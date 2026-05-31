@@ -20,11 +20,11 @@ Use `Git Bash` to run commands.
 
 Clone this repository and navigate to it.
 ```bash
-git clone https://github.com/fkie-cad/ipal
+git clone https://github.com/ipal-ids/ipal
 cd docker
 ```
 
-Run the following commands to deploy a docker container . All of the IPAl tools([ipal-ids](https://github.com/fkie-cad/ipal_ids_framework), [ipal-transciber](https://github.com/fkie-cad/ipal_transcriber), [ipal-evaluate](https://github.com/fkie-cad/ipal_evaluate)) will be installed and mounted inside the container.
+Run the following commands to deploy a docker container . All of the IPAl tools([ipal-ids](https://github.com/ipal-ids/ipal_ids_framework), [ipal-transciber](https://github.com/ipal-ids/ipal_transcriber), [ipal-evaluate](https://github.com/ipal-ids/ipal_evaluate)) will be installed and mounted inside the container.
 
 ```bash
 chmod +x deploy_ipal.sh

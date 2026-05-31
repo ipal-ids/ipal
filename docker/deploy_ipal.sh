@@ -5,17 +5,17 @@ set -eb
 # If you want to use your own fork, change the *_REPO variable.
 
 IDS_DIR=ids
-IDS_REPO=https://github.com/fkie-cad/ipal_ids_framework
+IDS_REPO=https://github.com/ipal-ids/ipal_ids_framework
 
 TRANSCRIBER_DIR=transcriber
-TRANSCRIBER_REPO=https://github.com/fkie-cad/ipal_transcriber
+TRANSCRIBER_REPO=https://github.com/ipal-ids/ipal_transcriber
 
 EVALUATE_DIR=evaluate
-EVALUATE_REPO=https://github.com/fkie-cad/ipal_evaluate
+EVALUATE_REPO=https://github.com/ipal-ids/ipal_evaluate
 
 INCLUDE_DATASETS=false
 DATASETS_DIR=datasets
-DATASETS_REPO=https://github.com/fkie-cad/ipal_datasets
+DATASETS_REPO=https://github.com/ipal-ids/ipal_datasets
 
 TUTORIAL_DIR=../tutorial
 
